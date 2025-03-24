@@ -4,7 +4,7 @@ It is public template of assignment `"labrabota 3"` for FPMI students
 
 # Usage
 
-Please, edit README and add some details, as instance **{набиев Озоджон, 12 группа}**.
+Please, edit README and add some details, as instance **{Набиев Озоджон, 12 группа}**.
 
 # Building
 
